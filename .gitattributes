@@ -1,0 +1,3 @@
+*.php linguist-language=php
+*.css linguist-language=css
+*.php linguist-detectable=true
